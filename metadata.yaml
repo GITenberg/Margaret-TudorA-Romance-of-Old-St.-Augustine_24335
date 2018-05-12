@@ -1,0 +1,31 @@
+_repo: Margaret-TudorA-Romance-of-Old-St.-Augustine_24335
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gilbert, W. B., active 1902
+    alias: Gilbert, W. B.
+    gutenberg_agent_id: '26412'
+    url: http://www.gutenberg.org/2009/agents/26412
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colcock, Annie T.
+    gutenberg_agent_id: '26413'
+    url: http://www.gutenberg.org/2009/agents/26413
+description: ''
+gutenberg_issued: '2008-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Saint Augustine (Fla.) -- Fiction'
+- !lcsh 'Historical fiction'
+title: 'Margaret Tudor: A Romance of Old St. Augustine'
+url: http://www.gutenberg.org/ebooks/24335
